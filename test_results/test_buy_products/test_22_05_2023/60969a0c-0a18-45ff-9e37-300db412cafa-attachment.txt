@@ -1,0 +1,19 @@
+Start test
+Current URL: https://www.saucedemo.com/
+Input user_name
+Input password
+Click login_button
+Good assert!
+Current URL: https://www.saucedemo.com/inventory.html
+Click select product
+Click cart
+Good assert!
+Click chekout
+Input first_name
+Input last_name
+Input zip_code
+Click continue_button
+Current URL: https://www.saucedemo.com/checkout-step-two.html
+Click payment_button
+Current URL: https://www.saucedemo.com/checkout-complete.html
+Тестирование прошло успешно!
